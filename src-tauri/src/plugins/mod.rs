@@ -17,6 +17,7 @@ pub mod shell_extension;
 /**
  * Stores
  */
+pub mod aoide;
 pub mod config;
 pub mod database;
 
