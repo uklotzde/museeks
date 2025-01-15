@@ -16,6 +16,7 @@ pub mod cover;
 /**
  * Stores
  */
+pub mod aoide;
 pub mod config;
 pub mod db;
 
